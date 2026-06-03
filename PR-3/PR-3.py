@@ -49,7 +49,6 @@ while True:
                 print("Student updated successfully!")
             else:
                 print("Student ID not found.")
-
         case '4':
             print("\nDelete Student")
             s_id = input("Enter Student ID to delete: ")
