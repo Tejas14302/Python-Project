@@ -395,7 +395,7 @@ MIT License — Free to use, modify, and distribute with attribution.
 
 ### Tejas Varma
 
-[![GitHub](https://img.shields.io/badge/GitHub-isamaliya16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejas14302)
+[![GitHub](https://img.shields.io/badge/GitHub-Tejas14302-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejas14302)
 
 > *"Every class you write is a blueprint — design it well, and the objects take care of themselves."*
 
